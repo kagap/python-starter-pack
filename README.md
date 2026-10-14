@@ -32,3 +32,7 @@ A set of 10 interactive Jupyter Notebook modules for learning Python from scratc
    jupyter notebook
    ```
 3. Pick your language folder ([`EN`](EN) or [`PL`](PL)) and start with Module 1.
+
+## 🔗 Course series
+
+Part of a five-course series: [python-starter-pack](https://github.com/kagap/python-starter-pack) → [sql-](https://github.com/kagap/sql-) → [statistic](https://github.com/kagap/statistic) → [pyspark](https://github.com/kagap/pyspark) → [airflow](https://github.com/kagap/airflow) (the last one in Polish only).
